@@ -3,7 +3,7 @@
 
 ##  Returning to Algorithms
 
-Coming back to algorithms after a semester break—especially after writing code that wasn’t web development has been a bit of a struggle.  
+Coming back to algorithms after a semester break especially after writing code that wasn’t web development has been a bit of a struggle.  
 
 I’ve noticed myself stumbling over problems I used to solve with ease.
 
