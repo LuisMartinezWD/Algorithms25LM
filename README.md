@@ -1,11 +1,11 @@
-# Algorithms25LM
+
 #  Week 1/2 Reflection
 
 ##  Returning to Algorithms
 
-Coming back to algorithms after a semester break especially after writing code that wasn’t web development has been a bit of a struggle.  
+Coming into algorithms after a semester break of writing code that wasn't web development it has been a bit of a struggle
 
-I’ve noticed myself stumbling over problems I used to solve with ease.
+I’ve noticed myself struggling over problems I used to solve with ease.
 
 ---
 
@@ -15,11 +15,10 @@ To get back on track, I’ve been:
 
 - Reviewing old code I previously wrote  
 - Practicing problems on LeetCode
-- Rebuilding my confidence and sharpening my problem solving mindset
+- Watching guides on youtube to get myself back into the coding mindset
 
 ---
 
 ##  Looking Ahead
 
-Despite the initial challenges, I’m genuinely excited to continue this course.  
-It feels much more aligned with the kind of work I’d encounter in a real world environment, definitely a lot more practical and immersive than some of my previous classes.
+Despite the initial struggle, I’m genuinely excited to continue this course since it is much more similar to a real workspace than what my other classes have been.
