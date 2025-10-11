@@ -1,0 +1,7 @@
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\bin\Debug\FisherYatesShuffe.exe.config
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\bin\Debug\FisherYatesShuffe.exe
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\bin\Debug\FisherYatesShuffe.pdb
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\obj\Debug\FisherYatesShuffe.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\obj\Debug\FisherYatesShuffe.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\obj\Debug\FisherYatesShuffe.exe
+C:\Users\Luis\Desktop\Data design work\FisherYatesShuffe\obj\Debug\FisherYatesShuffe.pdb
