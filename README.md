@@ -36,4 +36,9 @@ Concepts completely alien to me. But also I have noticed that with every set of 
 I have gone from mindlessly staring at my screen in confusion to being able to solve some of these problems, it has been difficult but thats whats needed to see progress.
 I had no idea algorithms went this deep, especially not as deep as im sure i'll see them go by the end of this semester. 
 
+#  Linked List Assignment
 
+## Difficult but not the worst
+This assignment made me think... THINK, it has been a long time since I've really sat down and coded something like this. While it was Karl teaching the class, it felt like we focused solely on the algorithm aspects and never really delved any deeper.
+
+But this assignment was much, much different; it took a lot of googling and Visual Studio's integrated CoPilot to help me out, but I think assignments like this really do help with solidifying these concepts.
