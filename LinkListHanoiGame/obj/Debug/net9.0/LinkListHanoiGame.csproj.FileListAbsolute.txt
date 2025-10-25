@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\bin\Debug\net9.0\LinkListHanoiGame.exe
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\bin\Debug\net9.0\LinkListHanoiGame.deps.json
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\bin\Debug\net9.0\LinkListHanoiGame.runtimeconfig.json
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\bin\Debug\net9.0\LinkListHanoiGame.dll
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\bin\Debug\net9.0\LinkListHanoiGame.pdb
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.dll
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\refint\LinkListHanoiGame.dll
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.pdb
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\LinkListHanoiGame.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Data design work\LinkListHanoiGame\obj\Debug\net9.0\ref\LinkListHanoiGame.dll
