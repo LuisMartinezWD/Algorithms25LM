@@ -41,7 +41,8 @@ namespace Data_Structures
             queueStorage.Print();
             queueStorage.Explain();
 
-            Console.WriteLine("\n✅ Comparison complete.");
+            Console.WriteLine("\n Comparison complete.");
         }
     }
 }
+
