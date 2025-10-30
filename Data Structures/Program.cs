@@ -7,7 +7,7 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
-            // Load data from file
+        
             string filePath = "data.txt";
             if (!File.Exists(filePath))
             {
@@ -17,7 +17,7 @@ namespace Data_Structures
 
             string[] lines = File.ReadAllLines(filePath);
 
-            // Instantiate each data structure
+           
             var arrayStorage = new ArrayStorage(lines);
             var mapStorage = new MapStorage(lines);
             var stackStorage = new StackStorage(lines);
@@ -45,4 +45,5 @@ namespace Data_Structures
         }
     }
 }
+
 
