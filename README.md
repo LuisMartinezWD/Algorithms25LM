@@ -42,3 +42,11 @@ I had no idea algorithms went this deep, especially not as deep as im sure i'll 
 This assignment made me think... THINK, it has been a long time since I've really sat down and coded something like this. While it was Karl teaching the class, it felt like we focused solely on the algorithm aspects and never really delved any deeper.
 
 But this assignment was much, much different; it took a lot of googling and Visual Studio's integrated CoPilot to help me out, but I think assignments like this really do help with solidifying these concepts.
+
+
+
+# Data Structure Assignmenmt
+
+## Difficult as it included the usage of Maps, in this case a Dictionary. Until this point I have only ever heard of them, never trying to use them on my own. There was a LOT of googling done and I think I did it right? I'm not too sure to be honest, but this assignment was definitely something that I think was useful.
+
+Like I said, I am not 100% confident this is correct at all, but I believe it is fairly close
