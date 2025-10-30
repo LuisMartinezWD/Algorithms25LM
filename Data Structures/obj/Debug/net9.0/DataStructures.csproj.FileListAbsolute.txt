@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\data.txt
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\DataStructures.exe
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\DataStructures.deps.json
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\DataStructures.runtimeconfig.json
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\DataStructures.dll
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\bin\Debug\net9.0\DataStructures.pdb
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.AssemblyInfo.cs
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.dll
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\refint\DataStructures.dll
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.pdb
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\DataStructures.genruntimeconfig.cache
+C:\Users\Luis\Desktop\SchoolWork\Data Structures\obj\Debug\net9.0\ref\DataStructures.dll
