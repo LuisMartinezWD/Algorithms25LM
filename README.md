@@ -47,6 +47,8 @@ But this assignment was much, much different; it took a lot of googling and Visu
 
 # Data Structure Assignmenmt
 
-## Difficult as it included the usage of Maps, in this case a Dictionary. Until this point I have only ever heard of them, never trying to use them on my own. There was a LOT of googling done and I think I did it right? I'm not too sure to be honest, but this assignment was definitely something that I think was useful.
+## Difficult because it was new to me
+
+this was difficult as it included the usage of Maps, in this case a Dictionary. Until this point I have only ever heard of them, never trying to use them on my own. There was a LOT of googling done and I think I did it right? I'm not too sure to be honest, but this assignment was definitely something that I think was useful.
 
 Like I said, I am not 100% confident this is correct at all, but I believe it is fairly close
