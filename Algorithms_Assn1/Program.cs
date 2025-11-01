@@ -9,7 +9,7 @@
 
         public int ConstantGetLastElement(int[] ElList) 
         {
-        return ElList[ElList.Length-1];
+            return ElList[ElList.Length-1];
         }
 
         //This is an example of Constant time, since this method does not depend on the size of the Array at all it all happens
@@ -48,3 +48,4 @@
 
     }
 }
+
