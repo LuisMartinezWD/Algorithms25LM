@@ -52,3 +52,10 @@ But this assignment was much, much different; it took a lot of googling and Visu
 this was difficult as it included the usage of Maps, in this case a Dictionary. Until this point I have only ever heard of them, never trying to use them on my own. There was a LOT of googling done and I think I did it right? I'm not too sure to be honest, but this assignment was definitely something that I think was useful.
 
 Like I said, I am not 100% confident this is correct at all, but I believe it is fairly close
+
+
+# Midterm Reflection
+
+## Overall a very informative semester
+
+Up till this point, there have been many new concepts that were introduced to me, and much renforcement on concepts I already knew of. Completing these assignments definitely has helped me understand how I should be using the tools that C# offers, I hope that over time I can learn another language and apply these same concepts to that language. In a way this class has taught me how to learn. 
