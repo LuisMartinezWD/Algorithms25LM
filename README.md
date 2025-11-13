@@ -59,3 +59,9 @@ Like I said, I am not 100% confident this is correct at all, but I believe it is
 ## Overall a very informative semester
 
 Up till this point, there have been many new concepts that were introduced to me, and much renforcement on concepts I already knew of. Completing these assignments definitely has helped me understand how I should be using the tools that C# offers, I hope that over time I can learn another language and apply these same concepts to that language. In a way this class has taught me how to learn. 
+
+# Assignment 5 sorting
+
+## More difficult than I thought
+
+Running through this assignment, there were sorting methods that we had run through either with Cameron or Karl that I still had my code for, making it super easy to implement. But then there were sorting algorithms that either we had not touched up on as much or I simply did not understand as much. This made me do a LOT of research, youtube videos, asking AI to explain them to me and give code examples, tutorials on how to build them and it still took me a fair amount of time. Was it irritating, yes, but I do think it was necessary to struggle through this now rather than later.
