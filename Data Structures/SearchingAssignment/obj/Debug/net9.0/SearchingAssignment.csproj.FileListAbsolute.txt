@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\bin\Debug\net9.0\SearchingAssignment.exe
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\bin\Debug\net9.0\SearchingAssignment.deps.json
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\bin\Debug\net9.0\SearchingAssignment.runtimeconfig.json
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\bin\Debug\net9.0\SearchingAssignment.dll
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\bin\Debug\net9.0\SearchingAssignment.pdb
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.dll
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\refint\SearchingAssignment.dll
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.pdb
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\SearchingAssignment.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Data design work\SearchingAssignment\obj\Debug\net9.0\ref\SearchingAssignment.dll
