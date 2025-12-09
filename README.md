@@ -72,3 +72,10 @@ Running through this assignment, there were sorting methods that we had run thro
 ## somewhat confusing
 
 This assignment has us use 3 searching algorithms to find a target number, there were times where I was confused how I would approach this assignment. But THANKFULLY, I looked at older code from when Karl was still instructing this class and the solutions for some Leetcodes, and I had already worked through these! So I just needed to implement the Data set and it went pretty smooth!
+
+
+# Trees assignment!
+
+##Incredibly Difficult
+
+This assignment was incredibly difficult and it took an immense amount of outside searching to understand how to do this work. I do think implementing a tree is very useful instead of just writing it out on paper.
