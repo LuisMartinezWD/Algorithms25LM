@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\2-3tree.exe
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\2-3tree.deps.json
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\2-3tree.runtimeconfig.json
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\2-3tree.dll
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\2-3tree.pdb
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.dll
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\refint\2-3tree.dll
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.pdb
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\2-3tree.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Data design work\2-3tree\obj\Debug\net9.0\ref\2-3tree.dll
+C:\Users\Luis\Desktop\Data design work\2-3tree\bin\Debug\net9.0\scores.txt
